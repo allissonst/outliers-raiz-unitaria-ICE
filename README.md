@@ -1,2 +1,6 @@
-# outliers-raiz-unitaria-ICE
-Aplicação dos testes de raiz unitária e identificação de outliers para a série de dados do Índice de Confiança Empresarial
+# :bar_chart: Identificação de outliers em uma série do Índice de Confiança Empresarial
+Ao analisar dados temporais, geralmente é possível encontrar observações atípicas que podem ser consideradas outliers. A presença desses outliers ou podem prejudicar os procedimentos tradicionais de análise, podendo prejudicar as estimativas dos parâmetros de modelos e previsões. Os impactos negativos que essas observações podem ocorrer pela necessidade de conhecimento dos métodos para identificá-las no processo de modelagem e realização de ajustes. Esse projeto buscou identificar os outliers existentes em uma série temporal de dados do Índice de Confiança Empresarial com dados mensais de 20 anos e 5 meses.
+
+O Índice de Confiança Empresarial (ICE) agrega os dados das sondagens da Indústria de Transformação, Serviços, Comércio e Construção. Os segmentos cobertos pelas pesquisas representam mais de 50% da economia nacional. Os dados são mensais, considerando o período de 01/2001 a 05/2021.
+
+Informações referentes aos resultados do projeto você encontra clicando [aqui](https://allisson-santos-curriculo.notion.site/Em-desenvolvimento-Identifica-o-de-outliers-em-uma-s-rie-do-ndice-de-Confian-a-Empresarial-886e10f833cb43288abd242561f31647).
